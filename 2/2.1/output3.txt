@@ -1,1 +1,1 @@
-[-4, -2, "aaa", "aba", "abb", {"name": "yankee"}]
+["beta", "echo", "foxtrot", "golf", "mike", "mike", "papa", "uniform", "yankee", "zulu"]
